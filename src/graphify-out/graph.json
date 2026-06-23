@@ -1,0 +1,1419 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "page.tsx",
+      "file_type": "code",
+      "source_file": "app/about/page.tsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "about_page",
+      "community": 2,
+      "norm_label": "page.tsx"
+    },
+    {
+      "label": "metadata",
+      "file_type": "code",
+      "source_file": "app/about/page.tsx",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "about_page_metadata",
+      "community": 2,
+      "norm_label": "metadata"
+    },
+    {
+      "label": "AboutPage()",
+      "file_type": "code",
+      "source_file": "app/about/page.tsx",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "about_page_aboutpage",
+      "community": 2,
+      "norm_label": "aboutpage()"
+    },
+    {
+      "label": "route.ts",
+      "file_type": "code",
+      "source_file": "app/api/reservation/route.ts",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "reservation_route",
+      "community": 6,
+      "norm_label": "route.ts"
+    },
+    {
+      "label": "reservationSchema",
+      "file_type": "code",
+      "source_file": "app/api/reservation/route.ts",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "reservation_route_reservationschema",
+      "community": 6,
+      "norm_label": "reservationschema"
+    },
+    {
+      "label": "DATA_DIR",
+      "file_type": "code",
+      "source_file": "app/api/reservation/route.ts",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "reservation_route_data_dir",
+      "community": 6,
+      "norm_label": "data_dir"
+    },
+    {
+      "label": "DATA_FILE",
+      "file_type": "code",
+      "source_file": "app/api/reservation/route.ts",
+      "source_location": "L17",
+      "_origin": "ast",
+      "id": "reservation_route_data_file",
+      "community": 6,
+      "norm_label": "data_file"
+    },
+    {
+      "label": "readReservations()",
+      "file_type": "code",
+      "source_file": "app/api/reservation/route.ts",
+      "source_location": "L19",
+      "_origin": "ast",
+      "id": "reservation_route_readreservations",
+      "community": 6,
+      "norm_label": "readreservations()"
+    },
+    {
+      "label": "writeReservation()",
+      "file_type": "code",
+      "source_file": "app/api/reservation/route.ts",
+      "source_location": "L28",
+      "_origin": "ast",
+      "id": "reservation_route_writereservation",
+      "community": 6,
+      "norm_label": "writereservation()"
+    },
+    {
+      "label": "POST()",
+      "file_type": "code",
+      "source_file": "app/api/reservation/route.ts",
+      "source_location": "L43",
+      "_origin": "ast",
+      "id": "reservation_route_post",
+      "community": 6,
+      "norm_label": "post()"
+    },
+    {
+      "label": "GET()",
+      "file_type": "code",
+      "source_file": "app/api/reservation/route.ts",
+      "source_location": "L76",
+      "_origin": "ast",
+      "id": "reservation_route_get",
+      "community": 6,
+      "norm_label": "get()"
+    },
+    {
+      "label": "page.tsx",
+      "file_type": "code",
+      "source_file": "app/contact/page.tsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "contact_page",
+      "community": 2,
+      "norm_label": "page.tsx"
+    },
+    {
+      "label": "metadata",
+      "file_type": "code",
+      "source_file": "app/contact/page.tsx",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "contact_page_metadata",
+      "community": 2,
+      "norm_label": "metadata"
+    },
+    {
+      "label": "ContactPage()",
+      "file_type": "code",
+      "source_file": "app/contact/page.tsx",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "contact_page_contactpage",
+      "community": 2,
+      "norm_label": "contactpage()"
+    },
+    {
+      "label": "error.tsx",
+      "file_type": "code",
+      "source_file": "app/error.tsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "app_error",
+      "community": 7,
+      "norm_label": "error.tsx"
+    },
+    {
+      "label": "ErrorPage()",
+      "file_type": "code",
+      "source_file": "app/error.tsx",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "app_error_errorpage",
+      "community": 7,
+      "norm_label": "errorpage()"
+    },
+    {
+      "label": "page.tsx",
+      "file_type": "code",
+      "source_file": "app/gallery/page.tsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "gallery_page",
+      "community": 2,
+      "norm_label": "page.tsx"
+    },
+    {
+      "label": "galleryImages",
+      "file_type": "code",
+      "source_file": "app/gallery/page.tsx",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "gallery_page_galleryimages",
+      "community": 2,
+      "norm_label": "galleryimages"
+    },
+    {
+      "label": "categories",
+      "file_type": "code",
+      "source_file": "app/gallery/page.tsx",
+      "source_location": "L66",
+      "_origin": "ast",
+      "id": "gallery_page_categories",
+      "community": 2,
+      "norm_label": "categories"
+    },
+    {
+      "label": "GalleryPage()",
+      "file_type": "code",
+      "source_file": "app/gallery/page.tsx",
+      "source_location": "L68",
+      "_origin": "ast",
+      "id": "gallery_page_gallerypage",
+      "community": 2,
+      "norm_label": "gallerypage()"
+    },
+    {
+      "label": "layout.tsx",
+      "file_type": "code",
+      "source_file": "app/layout.tsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "app_layout",
+      "community": 1,
+      "norm_label": "layout.tsx"
+    },
+    {
+      "label": "playfairDisplay",
+      "file_type": "code",
+      "source_file": "app/layout.tsx",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "app_layout_playfairdisplay",
+      "community": 1,
+      "norm_label": "playfairdisplay"
+    },
+    {
+      "label": "inter",
+      "file_type": "code",
+      "source_file": "app/layout.tsx",
+      "source_location": "L17",
+      "_origin": "ast",
+      "id": "app_layout_inter",
+      "community": 1,
+      "norm_label": "inter"
+    },
+    {
+      "label": "metadata",
+      "file_type": "code",
+      "source_file": "app/layout.tsx",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "app_layout_metadata",
+      "community": 1,
+      "norm_label": "metadata"
+    },
+    {
+      "label": "RootLayout()",
+      "file_type": "code",
+      "source_file": "app/layout.tsx",
+      "source_location": "L30",
+      "_origin": "ast",
+      "id": "app_layout_rootlayout",
+      "community": 1,
+      "norm_label": "rootlayout()"
+    },
+    {
+      "label": "page.tsx",
+      "file_type": "code",
+      "source_file": "app/menu/page.tsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "menu_page",
+      "community": 5,
+      "norm_label": "page.tsx"
+    },
+    {
+      "label": "MenuItem",
+      "file_type": "code",
+      "source_file": "app/menu/page.tsx",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "menu_page_menuitem",
+      "community": 5,
+      "norm_label": "menuitem"
+    },
+    {
+      "label": "menuItems",
+      "file_type": "code",
+      "source_file": "app/menu/page.tsx",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "menu_page_menuitems",
+      "community": 5,
+      "norm_label": "menuitems"
+    },
+    {
+      "label": "categories",
+      "file_type": "code",
+      "source_file": "app/menu/page.tsx",
+      "source_location": "L100",
+      "_origin": "ast",
+      "id": "menu_page_categories",
+      "community": 5,
+      "norm_label": "categories"
+    },
+    {
+      "label": "MenuPage()",
+      "file_type": "code",
+      "source_file": "app/menu/page.tsx",
+      "source_location": "L109",
+      "_origin": "ast",
+      "id": "menu_page_menupage",
+      "community": 5,
+      "norm_label": "menupage()"
+    },
+    {
+      "label": "not-found.tsx",
+      "file_type": "code",
+      "source_file": "app/not-found.tsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "app_not_found",
+      "community": 8,
+      "norm_label": "not-found.tsx"
+    },
+    {
+      "label": "NotFound()",
+      "file_type": "code",
+      "source_file": "app/not-found.tsx",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "app_not_found_notfound",
+      "community": 8,
+      "norm_label": "notfound()"
+    },
+    {
+      "label": "page.tsx",
+      "file_type": "code",
+      "source_file": "app/page.tsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "app_page",
+      "community": 4,
+      "norm_label": "page.tsx"
+    },
+    {
+      "label": "featuredDishes",
+      "file_type": "code",
+      "source_file": "app/page.tsx",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "app_page_featureddishes",
+      "community": 4,
+      "norm_label": "featureddishes"
+    },
+    {
+      "label": "testimonials",
+      "file_type": "code",
+      "source_file": "app/page.tsx",
+      "source_location": "L41",
+      "_origin": "ast",
+      "id": "app_page_testimonials",
+      "community": 4,
+      "norm_label": "testimonials"
+    },
+    {
+      "label": "StarRating()",
+      "file_type": "code",
+      "source_file": "app/page.tsx",
+      "source_location": "L65",
+      "_origin": "ast",
+      "id": "app_page_starrating",
+      "community": 4,
+      "norm_label": "starrating()"
+    },
+    {
+      "label": "HomePage()",
+      "file_type": "code",
+      "source_file": "app/page.tsx",
+      "source_location": "L93",
+      "_origin": "ast",
+      "id": "app_page_homepage",
+      "community": 4,
+      "norm_label": "homepage()"
+    },
+    {
+      "label": "page.tsx",
+      "file_type": "code",
+      "source_file": "app/reservation/page.tsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "reservation_page",
+      "community": 3,
+      "norm_label": "page.tsx"
+    },
+    {
+      "label": "timeOptions",
+      "file_type": "code",
+      "source_file": "app/reservation/page.tsx",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "reservation_page_timeoptions",
+      "community": 3,
+      "norm_label": "timeoptions"
+    },
+    {
+      "label": "FormData",
+      "file_type": "code",
+      "source_file": "app/reservation/page.tsx",
+      "source_location": "L32",
+      "_origin": "ast",
+      "id": "reservation_page_formdata",
+      "community": 3,
+      "norm_label": "formdata"
+    },
+    {
+      "label": "initialFormData",
+      "file_type": "code",
+      "source_file": "app/reservation/page.tsx",
+      "source_location": "L42",
+      "_origin": "ast",
+      "id": "reservation_page_initialformdata",
+      "community": 3,
+      "norm_label": "initialformdata"
+    },
+    {
+      "label": "ReservationPage()",
+      "file_type": "code",
+      "source_file": "app/reservation/page.tsx",
+      "source_location": "L52",
+      "_origin": "ast",
+      "id": "reservation_page_reservationpage",
+      "community": 3,
+      "norm_label": "reservationpage()"
+    },
+    {
+      "label": "page.tsx",
+      "file_type": "code",
+      "source_file": "app/studio/[[...tool]]/page.tsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tool_page",
+      "community": 0,
+      "norm_label": "page.tsx"
+    },
+    {
+      "label": "StudioPage()",
+      "file_type": "code",
+      "source_file": "app/studio/[[...tool]]/page.tsx",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "tool_page_studiopage",
+      "community": 0,
+      "norm_label": "studiopage()"
+    },
+    {
+      "label": "FadeUp.tsx",
+      "file_type": "code",
+      "source_file": "components/FadeUp.tsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "components_fadeup",
+      "community": 2,
+      "norm_label": "fadeup.tsx"
+    },
+    {
+      "label": "FadeUpProps",
+      "file_type": "code",
+      "source_file": "components/FadeUp.tsx",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "components_fadeup_fadeupprops",
+      "community": 2,
+      "norm_label": "fadeupprops"
+    },
+    {
+      "label": "FadeUp()",
+      "file_type": "code",
+      "source_file": "components/FadeUp.tsx",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "components_fadeup_fadeup",
+      "community": 2,
+      "norm_label": "fadeup()"
+    },
+    {
+      "label": "Footer.tsx",
+      "file_type": "code",
+      "source_file": "components/Footer.tsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "components_footer",
+      "community": 1,
+      "norm_label": "footer.tsx"
+    },
+    {
+      "label": "legalLinks",
+      "file_type": "code",
+      "source_file": "components/Footer.tsx",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "components_footer_legallinks",
+      "community": 1,
+      "norm_label": "legallinks"
+    },
+    {
+      "label": "Footer()",
+      "file_type": "code",
+      "source_file": "components/Footer.tsx",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "components_footer_footer",
+      "community": 1,
+      "norm_label": "footer()"
+    },
+    {
+      "label": "MaterialIcon.tsx",
+      "file_type": "code",
+      "source_file": "components/MaterialIcon.tsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "components_materialicon",
+      "community": 3,
+      "norm_label": "materialicon.tsx"
+    },
+    {
+      "label": "MaterialIconProps",
+      "file_type": "code",
+      "source_file": "components/MaterialIcon.tsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "components_materialicon_materialiconprops",
+      "community": 3,
+      "norm_label": "materialiconprops"
+    },
+    {
+      "label": "MaterialIcon()",
+      "file_type": "code",
+      "source_file": "components/MaterialIcon.tsx",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "components_materialicon_materialicon",
+      "community": 3,
+      "norm_label": "materialicon()"
+    },
+    {
+      "label": "Navbar.tsx",
+      "file_type": "code",
+      "source_file": "components/Navbar.tsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "components_navbar",
+      "community": 1,
+      "norm_label": "navbar.tsx"
+    },
+    {
+      "label": "navLinks",
+      "file_type": "code",
+      "source_file": "components/Navbar.tsx",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "components_navbar_navlinks",
+      "community": 1,
+      "norm_label": "navlinks"
+    },
+    {
+      "label": "Navbar()",
+      "file_type": "code",
+      "source_file": "components/Navbar.tsx",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "components_navbar_navbar",
+      "community": 1,
+      "norm_label": "navbar()"
+    },
+    {
+      "label": "client.ts",
+      "file_type": "code",
+      "source_file": "sanity/client.ts",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sanity_client",
+      "community": 0,
+      "norm_label": "client.ts"
+    },
+    {
+      "label": "client",
+      "file_type": "code",
+      "source_file": "sanity/client.ts",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "sanity_client_client",
+      "community": 0,
+      "norm_label": "client"
+    },
+    {
+      "label": "env.ts",
+      "file_type": "code",
+      "source_file": "sanity/env.ts",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sanity_env",
+      "community": 0,
+      "norm_label": "env.ts"
+    },
+    {
+      "label": "sanity.config.ts",
+      "file_type": "code",
+      "source_file": "sanity/sanity.config.ts",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sanity_sanity_config",
+      "community": 0,
+      "norm_label": "sanity.config.ts"
+    },
+    {
+      "label": "gallery.ts",
+      "file_type": "code",
+      "source_file": "sanity/schemas/gallery.ts",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "schemas_gallery",
+      "community": 0,
+      "norm_label": "gallery.ts"
+    },
+    {
+      "label": "index.ts",
+      "file_type": "code",
+      "source_file": "sanity/schemas/index.ts",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "schemas_index",
+      "community": 0,
+      "norm_label": "index.ts"
+    },
+    {
+      "label": "schemaTypes",
+      "file_type": "code",
+      "source_file": "sanity/schemas/index.ts",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "schemas_index_schematypes",
+      "community": 0,
+      "norm_label": "schematypes"
+    },
+    {
+      "label": "menuCategory.ts",
+      "file_type": "code",
+      "source_file": "sanity/schemas/menuCategory.ts",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "schemas_menucategory",
+      "community": 0,
+      "norm_label": "menucategory.ts"
+    },
+    {
+      "label": "menuItem.ts",
+      "file_type": "code",
+      "source_file": "sanity/schemas/menuItem.ts",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "schemas_menuitem",
+      "community": 0,
+      "norm_label": "menuitem.ts"
+    },
+    {
+      "label": "siteSettings.ts",
+      "file_type": "code",
+      "source_file": "sanity/schemas/siteSettings.ts",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "schemas_sitesettings",
+      "community": 0,
+      "norm_label": "sitesettings.ts"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/about/page.tsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "about_page",
+      "target": "about_page_aboutpage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/about/page.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "about_page",
+      "target": "about_page_metadata"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/about/page.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "about_page",
+      "target": "components_fadeup"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/about/page.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "about_page",
+      "target": "components_fadeup_fadeup"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/reservation/route.ts",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "reservation_route",
+      "target": "reservation_route_data_dir",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/reservation/route.ts",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "reservation_route",
+      "target": "reservation_route_data_file",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/reservation/route.ts",
+      "source_location": "L76",
+      "weight": 1.0,
+      "source": "reservation_route",
+      "target": "reservation_route_get",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/reservation/route.ts",
+      "source_location": "L22",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "reservation_route",
+      "target": "reservation_route_post"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/reservation/route.ts",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "reservation_route",
+      "target": "reservation_route_readreservations",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/reservation/route.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "reservation_route",
+      "target": "reservation_route_reservationschema"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/reservation/route.ts",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "reservation_route",
+      "target": "reservation_route_writereservation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/reservation/route.ts",
+      "source_location": "L78",
+      "weight": 1.0,
+      "source": "reservation_route_get",
+      "target": "reservation_route_readreservations",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/reservation/route.ts",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "reservation_route_writereservation",
+      "target": "reservation_route_readreservations",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/reservation/route.ts",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "reservation_route_post",
+      "target": "reservation_route_writereservation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/contact/page.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "contact_page",
+      "target": "components_fadeup"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/contact/page.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "contact_page",
+      "target": "components_fadeup_fadeup"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/contact/page.tsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "contact_page",
+      "target": "contact_page_contactpage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/contact/page.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "contact_page",
+      "target": "contact_page_metadata"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/error.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "app_error",
+      "target": "app_error_errorpage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/gallery/page.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "gallery_page",
+      "target": "components_fadeup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/gallery/page.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "gallery_page",
+      "target": "components_fadeup_fadeup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/gallery/page.tsx",
+      "source_location": "L66",
+      "weight": 1.0,
+      "source": "gallery_page",
+      "target": "gallery_page_categories",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/gallery/page.tsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "gallery_page",
+      "target": "gallery_page_galleryimages",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/gallery/page.tsx",
+      "source_location": "L68",
+      "weight": 1.0,
+      "source": "gallery_page",
+      "target": "gallery_page_gallerypage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/layout.tsx",
+      "source_location": "L17",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "app_layout",
+      "target": "app_layout_inter"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/layout.tsx",
+      "source_location": "L24",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "app_layout",
+      "target": "app_layout_metadata"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/layout.tsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "app_layout",
+      "target": "app_layout_playfairdisplay"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/layout.tsx",
+      "source_location": "L30",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "app_layout",
+      "target": "app_layout_rootlayout"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/layout.tsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "app_layout",
+      "target": "components_footer"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/layout.tsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "app_layout",
+      "target": "components_footer_footer"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/layout.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "app_layout",
+      "target": "components_navbar"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/menu/page.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "menu_page",
+      "target": "components_fadeup"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/menu/page.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "menu_page",
+      "target": "components_fadeup_fadeup"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/menu/page.tsx",
+      "source_location": "L100",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "menu_page",
+      "target": "menu_page_categories"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/menu/page.tsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "menu_page",
+      "target": "menu_page_menuitem"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/menu/page.tsx",
+      "source_location": "L16",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "menu_page",
+      "target": "menu_page_menuitems"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/menu/page.tsx",
+      "source_location": "L109",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "menu_page",
+      "target": "menu_page_menupage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/not-found.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "app_not_found",
+      "target": "app_not_found_notfound"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/page.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "app_page",
+      "target": "app_page_featureddishes"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/page.tsx",
+      "source_location": "L93",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "app_page",
+      "target": "app_page_homepage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/page.tsx",
+      "source_location": "L65",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "app_page",
+      "target": "app_page_starrating"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/page.tsx",
+      "source_location": "L41",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "app_page",
+      "target": "app_page_testimonials"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/page.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "app_page",
+      "target": "components_fadeup"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/page.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "app_page",
+      "target": "components_fadeup_fadeup"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/reservation/page.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "reservation_page",
+      "target": "components_fadeup"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/reservation/page.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "reservation_page",
+      "target": "components_fadeup_fadeup"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/reservation/page.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "reservation_page",
+      "target": "components_materialicon"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/reservation/page.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "reservation_page",
+      "target": "components_materialicon_materialicon"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/reservation/page.tsx",
+      "source_location": "L32",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "reservation_page",
+      "target": "reservation_page_formdata"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/reservation/page.tsx",
+      "source_location": "L42",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "reservation_page",
+      "target": "reservation_page_initialformdata"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/reservation/page.tsx",
+      "source_location": "L52",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "reservation_page",
+      "target": "reservation_page_reservationpage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/reservation/page.tsx",
+      "source_location": "L8",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "reservation_page",
+      "target": "reservation_page_timeoptions"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/studio/[[...tool]]/page.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tool_page",
+      "target": "sanity_sanity_config"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/studio/[[...tool]]/page.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tool_page",
+      "target": "tool_page_studiopage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/FadeUp.tsx",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "components_fadeup",
+      "target": "components_fadeup_fadeup"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/FadeUp.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "components_fadeup",
+      "target": "components_fadeup_fadeupprops"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Footer.tsx",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "components_footer",
+      "target": "components_footer_footer"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Footer.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "components_footer",
+      "target": "components_footer_legallinks"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/MaterialIcon.tsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "components_materialicon",
+      "target": "components_materialicon_materialicon"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/MaterialIcon.tsx",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "components_materialicon",
+      "target": "components_materialicon_materialiconprops"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Navbar.tsx",
+      "source_location": "L15",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "components_navbar",
+      "target": "components_navbar_navbar"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Navbar.tsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "components_navbar",
+      "target": "components_navbar_navlinks"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "sanity/client.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sanity_client",
+      "target": "sanity_client_client"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "sanity/client.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sanity_client",
+      "target": "sanity_env"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "sanity/sanity.config.ts",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sanity_sanity_config",
+      "target": "sanity_env"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "sanity/sanity.config.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sanity_sanity_config",
+      "target": "schemas_index"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "sanity/sanity.config.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sanity_sanity_config",
+      "target": "schemas_index_schematypes"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "sanity/schemas/index.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "schemas_index",
+      "target": "schemas_gallery"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "sanity/schemas/index.ts",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "schemas_index",
+      "target": "schemas_index_schematypes"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "sanity/schemas/index.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "schemas_index",
+      "target": "schemas_menucategory"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "sanity/schemas/index.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "schemas_index",
+      "target": "schemas_menuitem"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "sanity/schemas/index.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "schemas_index",
+      "target": "schemas_sitesettings"
+    }
+  ],
+  "hyperedges": []
+}

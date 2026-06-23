@@ -1,0 +1,147 @@
+{
+  "communities": {
+    "0": [
+      "sanity_client",
+      "sanity_client_client",
+      "sanity_env",
+      "sanity_sanity_config",
+      "schemas_gallery",
+      "schemas_index",
+      "schemas_index_schematypes",
+      "schemas_menucategory",
+      "schemas_menuitem",
+      "schemas_sitesettings",
+      "tool_page",
+      "tool_page_studiopage"
+    ],
+    "1": [
+      "app_layout",
+      "app_layout_inter",
+      "app_layout_metadata",
+      "app_layout_playfairdisplay",
+      "app_layout_rootlayout",
+      "components_footer",
+      "components_footer_footer",
+      "components_footer_legallinks",
+      "components_navbar",
+      "components_navbar_navbar",
+      "components_navbar_navlinks"
+    ],
+    "2": [
+      "about_page",
+      "about_page_aboutpage",
+      "about_page_metadata",
+      "components_fadeup",
+      "components_fadeup_fadeup",
+      "components_fadeup_fadeupprops",
+      "contact_page",
+      "contact_page_contactpage",
+      "contact_page_metadata"
+    ],
+    "3": [
+      "components_materialicon",
+      "components_materialicon_materialicon",
+      "components_materialicon_materialiconprops",
+      "reservation_page",
+      "reservation_page_formdata",
+      "reservation_page_initialformdata",
+      "reservation_page_reservationpage",
+      "reservation_page_timeoptions"
+    ],
+    "4": [
+      "app_page",
+      "app_page_featureddishes",
+      "app_page_homepage",
+      "app_page_starrating",
+      "app_page_testimonials"
+    ],
+    "5": [
+      "menu_page",
+      "menu_page_categories",
+      "menu_page_menuitem",
+      "menu_page_menuitems",
+      "menu_page_menupage"
+    ],
+    "6": [
+      "reservation_route",
+      "reservation_route_post",
+      "reservation_route_reservationschema"
+    ],
+    "7": [
+      "app_error",
+      "app_error_error"
+    ],
+    "8": [
+      "app_not_found",
+      "app_not_found_notfound"
+    ]
+  },
+  "cohesion": {
+    "0": 0.18181818181818182,
+    "1": 0.2,
+    "2": 0.2777777777777778,
+    "3": 0.2857142857142857,
+    "4": 0.4,
+    "5": 0.4,
+    "6": 0.6666666666666666,
+    "7": 1.0,
+    "8": 1.0
+  },
+  "gods": [
+    {
+      "id": "components_fadeup_fadeup",
+      "label": "FadeUp()",
+      "degree": 6
+    },
+    {
+      "id": "components_footer_footer",
+      "label": "Footer()",
+      "degree": 2
+    },
+    {
+      "id": "components_materialicon_materialicon",
+      "label": "MaterialIcon()",
+      "degree": 2
+    },
+    {
+      "id": "schemas_index_schematypes",
+      "label": "schemaTypes",
+      "degree": 2
+    },
+    {
+      "id": "about_page_metadata",
+      "label": "metadata",
+      "degree": 1
+    },
+    {
+      "id": "reservation_route_reservationschema",
+      "label": "reservationSchema",
+      "degree": 1
+    },
+    {
+      "id": "contact_page_metadata",
+      "label": "metadata",
+      "degree": 1
+    },
+    {
+      "id": "app_layout_playfairdisplay",
+      "label": "playfairDisplay",
+      "degree": 1
+    },
+    {
+      "id": "app_layout_inter",
+      "label": "inter",
+      "degree": 1
+    },
+    {
+      "id": "app_layout_metadata",
+      "label": "metadata",
+      "degree": 1
+    }
+  ],
+  "surprises": [],
+  "tokens": {
+    "input": 0,
+    "output": 0
+  }
+}
